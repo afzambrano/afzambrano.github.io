@@ -12,21 +12,13 @@ I am a doctoral candidate in the Learning Sciences and Technologies Program at t
 Research Interests
 ======
 
-Affect and Emotions
-------
-Summary
+**1. Affect and Emotions:** Summary
 
-Educational Games
-------
-Summary
+**2. Educational Games:** Summary
 
-Large Language Model Applications
-------
-Summary
+**3. Large Language Model Applications:** Summary
 
-Algorithmic Fairness
-------
-Summary
+**4. Algorithmic Fairness:** Summary
 
 News
 ======
