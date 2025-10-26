@@ -27,8 +27,8 @@ author:
   name             : "Andres Felipe Zambrano"
   pronouns         : # example: "she/her"  
   bio              : "Learning Sciences and Technologies Ph.D."
-  location         : "University of Pennsylvania"
-  employer         : "Graduate School of Education"
+  location         : #
+  employer         : "University of Pennsylvania"
   uri              : # URL
   email            : "afzambrano97@gmail.com" 
 
