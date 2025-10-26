@@ -7,7 +7,6 @@ excerpt: 'This study evaluates the effectiveness of three large language models 
 date: 2025-04-07
 venue: 'Information and Learning Sciences'
 paperurl: 'https://www.emerald.com/ils/article/126/5-6/401/1246753/De-identifying-student-personally-identifying'
-citation: 'Zambrano, A.F., Singhal, S., Pankiewicz, M., Baker, R.S., Porter, C., Liu, X. (2025). &quot;De-identifying student personally identifying information in discussion forum posts with large language models.&quot; <i>Information and Learning Sciences</i>. Vol. 126 No. 5-6 pp. 401–424, https://doi.org/10.1108/ILS-11-2024-0156.'
 ---
 
 **Purpose**
@@ -33,4 +32,6 @@ The use of downloadable LLMs enables researchers to de-identify data without tra
 **Originality/value**
 
 Previous research on LLM text de-identification has largely used proprietary models, which require sharing data containing sensitive PII with third-party companies. This study evaluates the performance of two open weight models that can be deployed locally, eliminating the need to share sensitive data externally.
+
+citation: 'Zambrano, A.F., Singhal, S., Pankiewicz, M., Baker, R.S., Porter, C., Liu, X. (2025). &quot;De-identifying student personally identifying information in discussion forum posts with large language models.&quot; <i>Information and Learning Sciences</i>. Vol. 126 No. 5-6 pp. 401–424, https://doi.org/10.1108/ILS-11-2024-0156.'
 
