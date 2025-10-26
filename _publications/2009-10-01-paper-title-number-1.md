@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "De-identifying student personally identifying information in discussion forum posts with large language models"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2025-de-identification-journal
+excerpt: 'This study evaluates the effectiveness of three large language models (LLMs)—GPT-4o, Llama 3.3 70B, and Llama 3.1 8B—in redacting personally identifying information (PII) from forum data in massive open online courses (MOOCs). Forum posts from students enrolled in nine MOOCs were de-identified by three human reviewers and by the LLMs using standardized prompts. Discrepancies between human and model redactions were analyzed to identify systematic error patterns. All models achieved an average recall above 0.9, successfully identifying most PII and even detecting instances overlooked by humans; however, their precision was lower—0.579 for GPT-4o, 0.506 for Llama 3.3, and 0.262 for Llama 3.1—indicating a tendency to over-redact non-PII text such as names and locations. Although data from several courses were used to improve generalizability, performance may vary across other contexts, and future models may yield better accuracy. The use of downloadable, locally deployable LLMs allows researchers to de-identify sensitive educational data without relying on third-party services, ensuring student privacy. This work contributes by assessing open-weight models for large-scale text de-identification, offering a privacy-preserving alternative to proprietary systems.'
 date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Information and Learning Sciences'
+paperurl: '[Open Access Paper](https://www.emerald.com/ils/article/126/5-6/401/1246753/De-identifying-student-personally-identifying)'
+citation: 'Zambrano, A.F., Singhal, S., Pankiewicz, M., Baker, R.S., Porter, C., Liu, X. (2025). &quot;De-identifying student personally identifying information in discussion forum posts with large language models.&quot; <i>nformation and Learning Sciences</i>. Vol. 126 No. 5-6 pp. 401–424, doi: [https://doi.org/10.1108/ILS-11-2024-0156](https://doi.org/10.1108/ILS-11-2024-0156).'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
