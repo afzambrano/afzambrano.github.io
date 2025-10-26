@@ -23,7 +23,7 @@ repository               : "afzambrano/afzambrano.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "Profile.jpg"
   name             : "Andres Felipe Zambrano"
   pronouns         : # example: "she/her"  
   bio              : "I am a doctoral candidate and Fulbright Scholar at the University of Pennsylvania exploring how AI and machine learning can transform learning experiences. My research investigates affective computing, educational video games, and algorithmic fairness to promote more inclusive and effective education."
