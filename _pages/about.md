@@ -5,11 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-header:
-  overlay_color: "#000"
-  overlay_filter: 0.0
-  show_overlay_title: false
-title: ""
+show_title: false
 ---
 
 I am a doctoral candidate in the Learning Sciences and Technologies Program at the University of Pennsylvania’s Graduate School of Education, a senior researcher at the Penn Center for Learning Analytics, and a Colombian Fulbright Scholar. Under the supervision of Professors Ryan Baker and Jaclyn Ocumpaugh, my work at PCLA explores how artificial intelligence and machine learning can transform learning experiences in digital environments. In particular, we develop and apply learning analytics and data mining methods to analyze how students interact with educational software, aiming to better understand how these interactions influence learning processes and outcomes.
