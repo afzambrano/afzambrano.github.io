@@ -1,26 +1,34 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a doctoral candidate at the University of Pennsylvania and a Fulbright Scholar, with a research trajectory focused on the intersection of education, artificial intelligence, and machine learning.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My work centers on the development of machine learning models capable of detecting affective states and behavioral patterns across diverse educational platforms, with the goal of enhancing the personalization, equity, and effectiveness of digital learning.
 
-A data-driven personal website
+My primary line of research explores educational video games, investigating how interactive environments (such as Minecraft and other open-world games) can foster science learning and teaching through immersive and engaging experiences.
+
+In addition, I study how language models can be used to design pedagogical interventions within classrooms and to support qualitative research.
+
+A key component of my work also involves the analysis of algorithmic bias, aiming to design artificial intelligence systems that operate in a fair, inclusive, and representative manner for students from diverse backgrounds and demographics.
+
+I am an active participant in international conferences such as Educational Data Mining (EDM), Quantitative Ethnography (ICQE), Learning Analytics and Knowledge (LAK), and Artificial Intelligence in Education (AIED).
+
+Selected Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+[Publication 1](https://www.mathjax.org/)
+------
+Abstract
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+[De-identifying student personally identifying information in discussion forum posts with large language models](https://www.emerald.com/ils/article/126/5-6/401/1246753/De-identifying-student-personally-identifying)
+------
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+Previous research on LLM text de-identification has largely used proprietary models, which require sharing data containing sensitive PII with third-party companies. This study evaluates the performance of two open weight models that can be deployed locally, eliminating the need to share sensitive data externally. This study aims to evaluate the effectiveness of three large language models (LLMs), GPT-4o, Llama 3.3 70B and Llama 3.1 8B, in redacting personally identifying information (PII) from forum data in massive open online courses (MOOCs). Forum posts from students enrolled in nine MOOCs were redacted by three human reviewers. The GPT and Llama models were then tasked with de-identifying the same data set using standardized prompts. Discrepancies between LLM and human redactions were analyzed to identify patterns in LLM errors. All models achieved an average recall of over 0.9 in identifying PII and identified PII instances overlooked by humans. However, their precisions were lower – 0.579 for GPT-4o, 0.506 for Llama 3.3 and 0.262 for Llama 3.1 – showing a tendency to over-redact non-PII names and locations. Several courses’ data were analyzed to increase findings’ generalizability but the models’ performance may vary in other contexts. GPT and Llama models were selected because of their availability and cost-effectiveness at the time of the study; future newer models may improve performance. The use of downloadable LLMs enables researchers to de-identify data without training specialized models or involving external companies, ensuring that student data remains private.
 
 Getting started
 ======
