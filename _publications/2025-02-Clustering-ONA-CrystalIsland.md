@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Gameplay Insights with Epistemic (Ordered) Network Analysis: Understanding the Potential of Video Games to Foster Authentic Scientific Practices in STEM Education"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2025-clustering-ona-crystal-island
 excerpt: 'This study investigates student learning and interest within the context of a single-player, open-world game designed for microbiology inquiry. Using Order Network Analysis, we identified four distinct clusters of students with varying engagement patterns—two showing apparent patterns of engagement and two showing apparent patterns of disengagement.'
 date: 2025-03-26
