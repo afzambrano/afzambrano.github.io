@@ -26,4 +26,4 @@ News
 
 Want to discuss research ideas?
 ------
-Feel free to shoot me an [email](afzambrano97@gmail.com). I am always happy to meet and discuss future projects.
+Feel free to shoot me an [email](mailto:afzambrano97@gmail.com). I am always happy to meet and discuss future projects.
