@@ -33,3 +33,5 @@ The use of downloadable LLMs enables researchers to de-identify data without tra
 
 Previous research on LLM text de-identification has largely used proprietary models, which require sharing data containing sensitive PII with third-party companies. This study evaluates the performance of two open weight models that can be deployed locally, eliminating the need to share sensitive data externally.
 
+[Download paper](https://www.emerald.com/ils/article/126/5-6/401/1246753/De-identifying-student-personally-identifying)
+
