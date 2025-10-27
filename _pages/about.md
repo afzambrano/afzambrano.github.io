@@ -37,9 +37,9 @@ I investigate how students’ emotions emerge while they interact with various d
   <a href="https://doi.org/10.1145/3706468.3706495">https://doi.org/10.1145/3706468.3706495</a>
 </span>
 
-Educational Games
+Game-Based Learning
 ---
-Summary
+As a gamer, I truly believe that commercial and educational games can serve as meaningful learning environments that foster a wide range of cognitive and motivational outcomes. I study how students interact with educational games, identify the motivational, cognitive, and affective pathways underlying these behaviors, and explore how we can design games that better support diverse learners.
 
 **Selected Publications**<br>
 - <span style="font-size: 0.9em;">
