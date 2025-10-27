@@ -2,7 +2,7 @@
 title: "Epistemic Association Rule Networks: Incorporating Association Rule Mining into the Quantitative Ethnography Toolbox"
 collection: publications
 category: conferences
-permalink: /publication/icqe-2024-observations-minecraft
+permalink: /publication/2024-icqe-earn
 excerpt: 'This paper proposes Association Rule Mining (ARM) as an additional technique for Quantitative Ethnography. We introduce a new visualization of the results of ARM, which we term Epistemic Association Rule Networks, which combines Epistemic Network Analysis’s visualization strengths with ARM’s ability to identify more complex patterns.'
 date: 2024-11-02
 venue: 'International Conference on Quantitative Ethnography'
