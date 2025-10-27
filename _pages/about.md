@@ -54,7 +54,7 @@ As a gamer, I truly believe that commercial and educational games (e.g., [What I
   In Y. J. Kim & Z. Swiecki (Eds.), <i>Advances in Quantitative Ethnography (ICQE 2024)</i>. 
   <i>Communications in Computer and Information Science</i>, vol 2279. Springer, Cham. 
   <a href="https://doi.org/10.1007/978-3-031-76332-8_2">https://doi.org/10.1007/978-3-031-76332-8_2</a>
-</span><br>
+</span>
 
 Large Language Model Applications:
 ---
@@ -92,6 +92,12 @@ The data used to train machine learning algorithms, as well as the specific meth
   In <i>Proceedings of the 14th Learning Analytics and Knowledge Conference</i> (pp. 349–359). 
   <a href="https://doi.org/10.1145/3636555.36368">https://doi.org/10.1145/3636555.36368</a>
 </span><br>
+- <span style="font-size: 0.9em;">
+<i>Ocumpaugh, J., Liu, X., & Zambrano, A. F.</i> (2025, March). 
+<i>Language Models and Dialect Differences.</i> 
+In <i>Proceedings of the 15th International Learning Analytics and Knowledge Conference</i> (pp. 204–215). 
+<a href="https://doi.org/10.1145/3706468.3706496">https://doi.org/10.1145/3706468.3706496</a>
+</span>
 
 News
 ======
