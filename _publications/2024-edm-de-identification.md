@@ -3,7 +3,7 @@ title: "De-Identifying Student Personally Identifying Information with GPT-4"
 collection: publications
 category: conferences
 permalink: /publication/2024-edm-de-identificaiton
-excerpt: 'In this work, we assess GPT-4 performance in de-identifying data from discussion forums in 9 Massive Open Online Courses. Our results show an average recall of 0.958 for identifying PII that needs to be redacted, suggesting that it is an appropriate tool for this purpose. Our tool is also successful at identifying cases missed by humans when redacting data. However, the precision of such redaction is considerably worse (0.526), over-redacting names and locations that do not represent PII, showing a need for further improvement.'
+excerpt: 'In this work, we assess GPT-4’s performance in de-identifying data from discussion forums in 9 Massive Open Online Courses. Our results show an average recall of 0.958 for identifying PII that needs to be redacted, suggesting that it is an appropriate tool for this purpose. Our tool is also successful at identifying cases missed by humans when redacting data. However, the precision of such redaction is considerably worse (0.526), over-redacting names and locations that do not represent PII, showing a need for further improvement.'
 date: 2024-07-07
 venue: 'Educational Data Mining'
 paperurl: 'https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.57/'
