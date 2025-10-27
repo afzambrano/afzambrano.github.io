@@ -13,17 +13,37 @@ I am a doctoral candidate in the Learning Sciences and Technologies Program at t
 Research Interests
 ======
 
-**1. Affect and Emotions:** Summary
+Affect and Emotions
+---
+Summary
 
-**2. Educational Games:** Summary
+**Selected Publications**
+Citations with links
 
-**3. Large Language Model Applications:** Summary
+Educational Games
+---
+Summary
 
-**4. Algorithmic Fairness:** Summary
+**Selected Publications**
+Citations with links
+
+Large Language Model Applications:
+---
+Summary
+
+**Selected Publications**
+Citations with links
+
+Algorithmic Fairness:
+---
+Summary
+
+**Selected Publications**
+Citations with links
 
 News
 ======
-- **October 2025 -** I recently attended the International Conference on Quantitative Ethnography, where our team published multiple articles investigating the use of large language models to code interviews and movement, and analyze how motivational features impact how students feel and interact with educational games.
+- **October 2025 --** I recently attended the International Conference on Quantitative Ethnography, where our team published multiple articles investigating the use of large language models to code interviews and movement, and analyze how motivational features impact how students feel and interact with educational games.
 
 Want to discuss research ideas?
 ------
