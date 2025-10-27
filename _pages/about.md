@@ -41,22 +41,57 @@ Educational Games
 ---
 Summary
 
-**Selected Publications**
-Citations with links
+**Selected Publications**<br>
+- <span style="font-size: 0.9em;">
+  <i>Zambrano, A. F., Barany, A., Ocumpaugh, J., et al.</i> (2025). 
+  <i>Unlocking Gameplay Insights with Epistemic (Ordered) Network Analysis: Understanding the Potential of Video Games to Foster Authentic Scientific Practices in STEM   Education.</i> 
+  <i>Journal of Science Education and Technology.</i> 
+  <a href="https://doi.org/10.1007/s10956-025-10213-4">https://doi.org/10.1007/s10956-025-10213-4</a>
+</span><br>
+- <span style="font-size: 0.9em;">
+  <i>Liu, X., Zambrano, A. F., Barany, A., Ocumpaugh, J., Ginger, J., Gadbury, M., ... & Baker, R. S.</i> (2024). 
+  <i>Investigating Learner Interest and Observation Patterns in a Minecraft Virtual Astronomy Environment.</i> 
+  In Y. J. Kim & Z. Swiecki (Eds.), <i>Advances in Quantitative Ethnography (ICQE 2024)</i>. 
+  <i>Communications in Computer and Information Science</i>, vol 2279. Springer, Cham. 
+  <a href="https://doi.org/10.1007/978-3-031-76332-8_2">https://doi.org/10.1007/978-3-031-76332-8_2</a>
+</span><br>
 
 Large Language Model Applications:
 ---
 Summary
 
-**Selected Publications**
-Citations with links
+**Selected Publications**<br>
+- <span style="font-size: 0.9em;">
+  <i>Zambrano, A.F., Liu, X., Barany, A., Baker, R.S., Kim, J., & Nasiar, N.</i> (2023). 
+  <i>From nCoder to ChatGPT: From Automated Coding to Refining Human Coding.</i> 
+  In G. Arastoopour Irgens & S. Knight (Eds.), <i>Advances in Quantitative Ethnography (ICQE 2023)</i>. 
+  <i>Communications in Computer and Information Science</i>, vol 1895. Springer, Cham. 
+  <a href="https://doi.org/10.1007/978-3-031-47014-1_32">https://doi.org/10.1007/978-3-031-47014-1_32</a>
+</span><br>
+- <span style="font-size: 0.9em;">
+  <i>Liu, X., Zambrano, A. F., Baker, R. S., Barany, A., Ocumpaugh, J., Zhang, J., Pankiewicz, M., Nasiar, N., & Wei, Z.</i> (2025). 
+  <i>Qualitative Coding with GPT-4: Where it Works Better.</i> 
+  <i>Journal of Learning Analytics, 12</i>(1), 169–185. 
+  <a href="https://doi.org/10.18608/jla.2025.8575">https://doi.org/10.18608/jla.2025.8575</a>
+</span><br>
+- <span style="font-size: 0.9em;">
+  <i>Zambrano, A. F., Singhal, S., Pankiewicz, M., Baker, R. S., Porter, C., & Liu, X.</i> (2025). 
+  <i>De-identifying student personally identifying information in discussion forum posts with large language models.</i> 
+  <i>Information and Learning Sciences, 126</i>(5–6), 401–424. 
+  <a href="https://doi.org/10.1108/ILS-11-2024-0156">https://doi.org/10.1108/ILS-11-2024-0156</a>
+</span>
 
 Algorithmic Fairness:
 ---
 Summary
 
-**Selected Publications**
-Citations with links
+**Selected Publications**<br>
+- <span style="font-size: 0.9em;">
+  <i>Zambrano, A. F., Zhang, J., & Baker, R. S.</i> (2024, March). 
+  <i>Investigating algorithmic bias on Bayesian knowledge tracing and carelessness detectors.</i> 
+  In <i>Proceedings of the 14th Learning Analytics and Knowledge Conference</i> (pp. 349–359). 
+  <a href="https://doi.org/10.1145/3636555.36368">https://doi.org/10.1145/3636555.36368</a>
+</span><br>
 
 News
 ======
