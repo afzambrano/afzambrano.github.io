@@ -39,7 +39,7 @@ I investigate how students’ emotions emerge while they interact with various d
 
 Game-Based Learning
 ---
-As a gamer, I truly believe that commercial and educational games (e.g., [What If Hypotetical Implementations in Minecraft](https://whimcproject.web.illinois.edu/) and [Crystal Island](https://sites.google.com/ncsu.edu/intellimedia-crystalisland/))can serve as meaningful learning environments that foster a wide range of cognitive and motivational outcomes. I study how students interact with educational games, identify the motivational, cognitive, and affective pathways underlying these behaviors, and explore how we can design games that better support diverse learners.
+As a gamer, I truly believe that commercial and educational games (e.g., [What If Hypotetical Implementations in Minecraft](https://whimcproject.web.illinois.edu/) and [Crystal Island](https://sites.google.com/ncsu.edu/intellimedia-crystalisland/)) can serve as meaningful learning environments that foster a wide range of cognitive and motivational outcomes. I study how students interact with educational games, identify the motivational, cognitive, and affective pathways underlying these behaviors, and explore how we can design games that better support diverse learners.
 
 **Selected Publications**<br>
 - <span style="font-size: 0.9em;">
@@ -58,7 +58,7 @@ As a gamer, I truly believe that commercial and educational games (e.g., [What I
 
 Large Language Model Applications:
 ---
-Summary
+With the arrival of large language models in our daily lives, I am passionate about exploring how we can leverage them to create richer learning experiences for students—for example, by developing chatbots trained on specific content or skills we aim to teach. I am also interested in how these models can enhance research practice, serving as thinking partners for discussing alternative interpretations of qualitative labeling, automating the annotation of large datasets, and de-identifying data to make it publicly available for other researchers.
 
 **Selected Publications**<br>
 - <span style="font-size: 0.9em;">
