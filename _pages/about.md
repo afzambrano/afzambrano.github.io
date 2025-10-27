@@ -43,7 +43,7 @@ As a gamer, I truly believe that commercial and educational games (e.g., [What I
 
 **Selected Publications**<br>
 - <span style="font-size: 0.9em;">
-  <i>Zambrano, A. F., Barany, A., Ocumpaugh, J., et al.</i> (2025). 
+  <i>Zambrano, A. F., Barany, A., Ocumpaugh, J., Nasiar, N., Vandenberg, J., Goslen, A., ... & Hutt, S.</i> (2025). 
   <i>Unlocking Gameplay Insights with Epistemic (Ordered) Network Analysis: Understanding the Potential of Video Games to Foster Authentic Scientific Practices in STEM   Education.</i> 
   <i>Journal of Science Education and Technology.</i> 
   <a href="https://doi.org/10.1007/s10956-025-10213-4">https://doi.org/10.1007/s10956-025-10213-4</a>
@@ -93,10 +93,10 @@ The data used to train machine learning algorithms, as well as the specific meth
   <a href="https://doi.org/10.1145/3636555.36368">https://doi.org/10.1145/3636555.36368</a>
 </span><br>
 - <span style="font-size: 0.9em;">
-<i>Ocumpaugh, J., Liu, X., & Zambrano, A. F.</i> (2025, March). 
-<i>Language Models and Dialect Differences.</i> 
-In <i>Proceedings of the 15th International Learning Analytics and Knowledge Conference</i> (pp. 204–215). 
-<a href="https://doi.org/10.1145/3706468.3706496">https://doi.org/10.1145/3706468.3706496</a>
+  <i>Ocumpaugh, J., Liu, X., & Zambrano, A. F.</i> (2025, March). 
+  <i>Language Models and Dialect Differences.</i> 
+  In <i>Proceedings of the 15th International Learning Analytics and Knowledge Conference</i> (pp. 204–215). 
+  <a href="https://doi.org/10.1145/3706468.3706496">https://doi.org/10.1145/3706468.3706496</a>
 </span>
 
 News
