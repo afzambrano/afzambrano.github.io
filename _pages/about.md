@@ -58,7 +58,7 @@ As a gamer, I truly believe that commercial and educational games (e.g., [What I
 
 Large Language Model Applications:
 ---
-With the arrival of large language models in our daily lives, I am passionate about exploring how we can leverage them to create richer learning experiences for students—for example, by developing chatbots trained on specific content or skills we aim to teach. I am also interested in how these models can enhance research practice, serving as thinking partners for discussing alternative interpretations of qualitative labeling, automating the annotation of large datasets, and de-identifying data to make it publicly available for other researchers.
+With the arrival of large language models in our daily lives, I am passionate about exploring how we can leverage them to create richer learning experiences for students—for example, by developing chatbots trained on specific content or skills we aim to teach. I am also interested in how these models can enhance research practice, serving as thinking partners for discussing alternative interpretations of qualitative data, automating the annotation of large datasets, and de-identifying data to make it publicly available for other researchers.
 
 **Selected Publications**<br>
 - <span style="font-size: 0.9em;">
@@ -83,7 +83,7 @@ With the arrival of large language models in our daily lives, I am passionate ab
 
 Algorithmic Fairness:
 ---
-Summary
+The data used to train machine learning algorithms, as well as the specific methods we employ, can strongly influence the fairness of those algorithms. Therefore, I also investigate whether algorithms are less accurate for certain populations, what is the potential impact of this bias, and how we can address these biases to develop fairer and more equitable machine learning and artificial intelligence models.
 
 **Selected Publications**<br>
 - <span style="font-size: 0.9em;">
