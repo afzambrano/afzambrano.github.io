@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-isls-minecraft
 excerpt: 'This study aims to understand the relationship between students’ interest levels and their scientific observation behaviors within a Minecraft-based learning system. Our findings indicate that students with higher situational interest tend to make observations across a broader range of topics, with a particular emphasis on scientific content.'
 date: 2025-06-01
-venue: 'International Society of the Learning Sciences'
+venue: 'International Society of the Learning Sciences Annual Meeting'
 paperurl: 'https://learninganalytics.upenn.edu/ryanbaker/interest-whimc-isls2025.pdf'
 ---
 
