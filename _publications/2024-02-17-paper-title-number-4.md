@@ -1,5 +1,5 @@
 ---
-title: "Exploring students’ interest-driven patterns of scientific observation in Minecraft"
+title: "Exploring students' interest-driven patterns of scientific observation in Minecraft"
 collection: publications
 category: conferences
 permalink: /publication/2025-isls-minecraft
