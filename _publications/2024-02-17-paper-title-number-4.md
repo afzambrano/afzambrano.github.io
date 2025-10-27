@@ -1,12 +1,14 @@
 ---
-title: "Paper Title Number 4"
+title: "Exploring students’ interest-driven patterns of scientific observation in Minecraft"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+permalink: /publication/2025-isls-minecraft
+excerpt: 'This study aims to understand the relationship between student's interest levels and their scientific observation behaviors within a Minecraft-based learning system. Our findings indicate that students with higher situational interest tend to make observations across a broader range of topics, with a particular emphasis on scientific content.'
+date: 2025-06-01
+venue: 'International Society of the Learning Sciences'
+paperurl: 'https://learninganalytics.upenn.edu/ryanbaker/interest-whimc-isls2025.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Students bring different levels of interest to learning experiences, which impacts how they engage with learning materials. This study aims to understand the relationship between student's interest levels and their scientific observation behaviors within a Minecraft-based learning system. Motivated by the growing interest in integrating human-AI collaboration within educational research, we combine the capabilities of Large Language Models (LLMs) with the expertise of human researchers to capture the emerging themes within students’ observations. Using epistemic network analysis, we then visualized and compared the observational patterns of students with high and low situational interest. Our findings indicate that students with higher situational interest tend to make observations across a broader range of topics, with a particular emphasis on scientific content. These results highlight the potential for developing timely interventions to support students with low situational interest.
+
+[Download Paper](https://learninganalytics.upenn.edu/ryanbaker/interest-whimc-isls2025.pdf)
