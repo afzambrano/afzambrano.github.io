@@ -35,3 +35,9 @@ Previous research on LLM text de-identification has largely used proprietary mod
 
 [Download paper](https://www.emerald.com/ils/article/126/5-6/401/1246753/De-identifying-student-personally-identifying)
 
+<b>Recommended citation:</b><br>
+<i>Zambrano, A. F., Singhal, S., Pankiewicz, M., Baker, R. S., Porter, C., & Liu, X.</i> (2025). 
+<i>De-identifying student personally identifying information in discussion forum posts with large language models.</i> 
+<i>Information and Learning Sciences, 126</i>(5–6), 401–424. 
+<a href="https://doi.org/10.1108/ILS-11-2024-0156">https://doi.org/10.1108/ILS-11-2024-0156</a>
+
