@@ -2,7 +2,7 @@
 title: "Investigating learner interest and observation patterns in a minecraft virtual astronomy environment"
 collection: publications
 category: conferences
-permalink: /publication/icqe-2024-observations-minecraft
+permalink: /publication/2024-icqe-observations-minecraft
 excerpt: 'This study explores how student actions in Minecraft-based virtual environments designed to simulate astronomical phenomena shift over time, as their interest in astronomy changes. Our findings show that learners who maintain or increase their astronomy interest produce more complex observational behaviors, such as hypothesis generation and comparisons. Conversely, learners whose interest declines produce more surface-level, factual observations. Results suggest ways to identify and support long-term interest in science education.'
 date: 2024-11-02
 venue: 'International Conference on Quantitative Ethnography'
