@@ -2,7 +2,7 @@
 title: "Towards Generalizable Detection of Urgency of Discussion Forum Posts"
 collection: publications
 category: conferences
-permalink: /publication/2023-icqe-gpt
+permalink: /publication/2023-edm-urgency-posts
 excerpt: 'This study develops predictive models to automatically assess the urgency of discussion forum posts in MOOCs on a 7-point scale, helping instructors prioritize student support more efficiently. Using data from MOOCs at the University of Pennsylvania and Stanford University, a support vector regressor trained on Universal Sentence Encoder embeddings achieved the best performance, demonstrating strong generalizability across institutions.'
 date: 2023-07-14
 venue: 'Educational Data Mining'
