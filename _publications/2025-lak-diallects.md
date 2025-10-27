@@ -13,3 +13,10 @@ The advancements in automatic language processing being ushered in by Large Lang
 
 [Download Paper](https://dl.acm.org/doi/full/10.1145/3706468.3706496)
 
+<b>Recommended citation:</b><br>
+<i>Ocumpaugh, J., Liu, X., & Zambrano, A. F.</i> (2025, March). 
+<i>Language Models and Dialect Differences.</i> 
+In <i>Proceedings of the 15th International Learning Analytics and Knowledge Conference</i> (pp. 204–215). 
+<a href="https://doi.org/10.1145/3706468.3706496">https://doi.org/10.1145/3706468.3706496</a>
+
+
