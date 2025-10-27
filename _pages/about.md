@@ -39,7 +39,7 @@ I investigate how students’ emotions emerge while they interact with various d
 
 Game-Based Learning
 ---
-As a gamer, I truly believe that commercial and educational games can serve as meaningful learning environments that foster a wide range of cognitive and motivational outcomes. I study how students interact with educational games, identify the motivational, cognitive, and affective pathways underlying these behaviors, and explore how we can design games that better support diverse learners.
+As a gamer, I truly believe that commercial and educational games (e.g., [What If Hypotetical Implementations in Minecraft](https://whimcproject.web.illinois.edu/) and [Crystal Island](https://sites.google.com/ncsu.edu/intellimedia-crystalisland/))can serve as meaningful learning environments that foster a wide range of cognitive and motivational outcomes. I study how students interact with educational games, identify the motivational, cognitive, and affective pathways underlying these behaviors, and explore how we can design games that better support diverse learners.
 
 **Selected Publications**<br>
 - <span style="font-size: 0.9em;">
