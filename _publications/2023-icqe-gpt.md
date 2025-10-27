@@ -13,5 +13,9 @@ This paper investigates the potential of utilizing ChatGPT (GPT-4) as a tool for
 
 [Download Paper](https://link.springer.com/chapter/10.1007/978-3-031-76332-8_19)
 
-Recommended citation: 
-<i>Zambrano, A.F., Liu, X., Barany, A., Baker, R.S., Kim, J., Nasiar, N. (2023). From nCoder to ChatGPT: From Automated Coding to Refining Human Coding. In: Arastoopour Irgens, G., Knight, S. (eds) Advances in Quantitative Ethnography. ICQE 2023. Communications in Computer and Information Science, vol 1895. Springer, Cham. https://doi.org/10.1007/978-3-031-47014-1_32 </i>
+<b>Recommended citation:</b><br>
+<i>Zambrano, A.F., Liu, X., Barany, A., Baker, R.S., Kim, J., & Nasiar, N.</i> (2023). 
+<i>From nCoder to ChatGPT: From Automated Coding to Refining Human Coding.</i> 
+In G. Arastoopour Irgens & S. Knight (Eds.), <i>Advances in Quantitative Ethnography (ICQE 2023)</i>. 
+<i>Communications in Computer and Information Science</i>, vol 1895. Springer, Cham. 
+<a href="https://doi.org/10.1007/978-3-031-47014-1_32">https://doi.org/10.1007/978-3-031-47014-1_32</a>
