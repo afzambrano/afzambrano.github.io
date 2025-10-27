@@ -18,10 +18,10 @@ Affect and Emotions
 I investigate how students’ emotions emerge while they interact with various digital learning environments. To do this, I develop sensor-free machine learning affect detectors trained on students’ self-reports and classroom observations, following the [BROMP](https://learninganalytics.upenn.edu/ryanbaker/bromp.html) monitoring protocol. Using these detectors, I examine how affective states relate to motivational and cognitive factors, the behaviors students adopt while engaging with learning tools, and their overall learning outcomes.
 
 **Selected Publications**<br>
-- <s><i>Zambrano, A. F., Nasiar, N., Ocumpaugh, J., Goslen, A., Zhang, J., Rowe, J., Esiason, J., Vandenberg, J., & Hutt, S.</i> (2024). 
+- <small><i>Zambrano, A. F., Nasiar, N., Ocumpaugh, J., Goslen, A., Zhang, J., Rowe, J., Esiason, J., Vandenberg, J., & Hutt, S.</i> (2024). 
 <i>Says Who? How different ground truth measures of emotion impact student affective modeling.</i> 
 <i>Proceedings of the 17th International Conference on Educational Data Mining</i>, 211–223. 
-<a href="https://doi.org/10.5281/zenodo.12729800">https://doi.org/10.5281/zenodo.12729800</a></s><br>
+<a href="https://doi.org/10.5281/zenodo.12729800">https://doi.org/10.5281/zenodo.12729800</a></small><br>
 - <s><i>Zambrano, A. F., Ocumpaugh, J., Baker, R. S., Vanacore, K., Esiason, J., & Vandenberg, J.</i> (2025). 
 <i>The Half-Life of Epistemic Emotions: How Motivation Influences Affective Chronometry.</i> 
 <i>Proceedings of the 18th International Conference on Educational Data Mining</i>, 317–327. 
