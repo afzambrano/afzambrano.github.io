@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2023-icqe-gpt
 excerpt: 'The study assesses the accuracy of ChatGPT for automated coding and the role that its explanations of its coding decisions can play in improving the consistency and construct validity of human-generated codes. Results suggest that ChatGPT can better capture a variety of language structures compared to other automated coding tools. ChatGPT’s ability to provide explanations for its decisions can also help enhance construct validity, identify ambiguity in code definitions, and assist human coders in achieving high interrater reliability.'
-date: 2024-10-22
+date: 2023-10-22
 venue: 'International Conference on Quantitative Ethnography'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-76332-8_19'
 ---
