@@ -1,14 +1,14 @@
 ---
-title: "Epistemic Association Rule Networks: Incorporating Association Rule Mining into the Quantitative Ethnography Toolbox"
+title: "How We Code Code: Leveraging GPT and Ordered Networks for Understanding Introductory Programming Education"
 collection: publications
 category: conferences
-permalink: /publication/icqe-2024-observations-minecraft
-excerpt: 'This paper proposes Association Rule Mining (ARM) as an additional technique for Quantitative Ethnography. We introduce a new visualization of the results of ARM, which we term Epistemic Association Rule Networks, which combines Epistemic Network Analysis’s visualization strengths with ARM’s ability to identify more complex patterns.'
+permalink: /publication/2024-icqe-coding-code
+excerpt: 'In this study, we used Ordered Network Analysis (ONA) to explore data from an automated assessment platform used iteratively by students in an introductory CS course. Our analysis revealed behavioral differences in how high performing and low performing novice learners changed their code over time, particularly when disaggregated by the types of errors they faced (compiler versus non compiler errors).'
 date: 2024-11-02
 venue: 'International Conference on Quantitative Ethnography'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-76335-9_1'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-76332-8_19'
 ---
 
-Since the formalization of Quantitative Ethnography (QE) as a methodology, Epistemic Network Analysis (ENA) has been the most widely used analytical tool in the community. ENA has proven itself highly useful for QE research, particularly in modeling temporal associations between code pairs. However, integrating additional techniques that systematically reveal more complex patterns in data can not only supplement the insights derived from ENA but also broaden the range of research that can be conducted through a QE lens. To that end, this paper proposes Association Rule Mining (ARM) as an additional technique for QE. We introduce a new visualization of the results of ARM, which we term Epistemic Association Rule Networks (EARN), which combines ENA’s visualization strengths with ARM’s ability to identify more complex patterns. Using human-human tutoring transcripts, we illustrate how ARM and EARN can complement ENA by offering insights on directional conditional relationships between groups and pairs of constructs, offering a more nuanced understanding of complex phenomena.
+University-level computer science (CS) courses can be particularly challenging for students with limited programming backgrounds. To support novice learners, instructors often employ automated assessment systems for programming assignments. These systems provide students with feedback on demand as they work through problems online. Outcomes remain mixed, perhaps due to differences in the strategies learners use to address different types of coding errors after receiving feedback. In this study, we used Ordered Network Analysis (ONA) to explore data from an automated assessment platform used iteratively by students in an introductory CS course. We employed a GPT-based approach to automate the process of qualitative coding on this dataset. Our analysis revealed behavioral differences in how high performing and low performing novice learners changed their code over time, particularly when disaggregated by the types of errors they faced (compiler versus non compiler errors). By understanding these patterns, instructors can create interventions that guide students through challenges, improving their chances of success in programming tasks.
 
-[Download Paper](https://link.springer.com/chapter/10.1007/978-3-031-76335-9_1)
+[Download Paper](https://link.springer.com/chapter/10.1007/978-3-031-76332-8_19)
