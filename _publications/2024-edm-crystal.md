@@ -14,7 +14,7 @@ Research into student affect detection has historically relied on ground truth m
 [Download Paper](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-long-papers.18/)
 
 <b>Recommended citation:</b><br>
-<i>Zambrano, A. F., Nasiar, N., Ocumpaugh, J., Goslen, A., Zhang, J., Rowe, J., Esiason, J., Venenberg, J., & Hutt, S.</i> (2024). 
+<i>Zambrano, A. F., Nasiar, N., Ocumpaugh, J., Goslen, A., Zhang, J., Rowe, J., Esiason, J., Vandenberg, J., & Hutt, S.</i> (2024). 
 <i>Says Who? How different ground truth measures of emotion impact student affective modeling.</i> 
 <i>Proceedings of the 17th International Conference on Educational Data Mining</i>, 211–223. 
 <a href="https://doi.org/10.5281/zenodo.12729800">https://doi.org/10.5281/zenodo.12729800</a>
