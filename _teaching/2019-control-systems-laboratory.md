@@ -7,4 +7,4 @@ venue: "Universidad de los Andes, Department of Electric and Electronic Engineer
 date: 2019-01-01
 location: "Bogotá, Colombia"
 ---
-Taught Control Systems Laboratory, an undergraduate course averaging 200 students per semester, covering topics such as controllability, observability, feedback controllers, transform methods, and automatization
+Undergraduate course averaging 200 students per semester, covering topics such as controllability, observability, feedback controllers, transform methods, and automatization
