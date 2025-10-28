@@ -17,9 +17,7 @@ Education
 
 Research Experience
 ======
-* September 2022 - June 2026: Research Assistant
-  * [Penn Center for Learning Analytics](https://learninganalytics.upenn.edu/)
-  * University of Pennsylvania
+* September 2022 - June 2026: Research Assistant, [Penn Center for Learning Analytics](https://learninganalytics.upenn.edu/), University of Pennsylvania
   * Duties include: Creating Machine Learning models and conducting statistical and qualitative analysis of students' interactions with educational platforms, motivation, emotions, and learning.
   * Supervisor: Ryan S. Baker and Jaclyn Ocumpaugh
  
