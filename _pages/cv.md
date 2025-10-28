@@ -52,7 +52,7 @@ Awards and Nominations
 * Best Student Paper Nomination ICQE 2023: [Zambrano, A.F., Liu, X., Barany, A., Baker, R.S., Kim, J., Nasiar, N. (2023) From nCoder to ChatGPT: From Automated Coding to Refining Human Coding. Proceedings of the International Conference on Quantitative Ethnography.](https://afzambrano.github.io/publication/2023-icqe-gpt)
 * Best Short Paper EDM 2023: [Svabensky, V., Baker, R.S., Zambrano, A., Zou, Y., Slater, S. (2023) Towards Generalizable Detection of Urgency of Discussion Forum Posts. Proceedings of the International Conference on Educational Data Mining.](https://afzambrano.github.io/publication/2023-edm-urgency-posts)
 * Fulbright Minciencias Award 2021 for pursuing doctoral studies in the U.S.
-* Second place in the Otto de Greiff Awards with the project “Solar Irradiance Forecasting Models without On-Site Training Measurements”. This award is given to the best research projects conducted by undergraduate students in Colombia.
+* Second place in the Otto de Greiff Awards with the project “[Solar Irradiance Forecasting Models without On-Site Training Measurements](https://afzambrano.github.io/publication/2020-renewable-energies)”. This award is given to the best research projects conducted by undergraduate students in Colombia.
 * Electronic Engineering Cum Laude 2019.
 * Electrical Engineering Cum Laude 2019.
 * Bachiller por Colombia Ecopetrol Scholarship.
