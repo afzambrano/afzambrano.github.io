@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2023-aied-explore-crystal
 excerpt: 'We examine data from middle schoolers who played Crystal Island, a learning game for microbiology. Results show higher learning gains for students with exploratory behaviors, with interactions between prior knowledge and frustration. Results have implications for designing adaptive scaffolding for learning and affective regulation.'
 date: 2023-06-30
-venue: 'Artificial Intelligence in Education'
+venue: 'International Conference on Artificial Intelligence in Education'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-36336-8_77'
 ---
 
