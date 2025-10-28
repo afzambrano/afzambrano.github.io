@@ -11,35 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Learning Sciences and Technologies, University of Pennsylvania, 2026 (expected)
+* M.S. in Electronic and Computers Engineering, Universidad de los Andes, 2020
+* B.S. in Electrical and Electronic Engineering, Universidad de los Andes, 2019
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* September 2022 - June 2026: Research Assistant
+  * [Penn Center for Learning Analytics](https://learninganalytics.upenn.edu/)
+  * University of Pennsylvania
+  * Duties include: Creating Machine Learning models and conducting statistical and qualitative analysis of students' interactions with educational platforms, motivation, emotions, and learning.
+  * Supervisor: Ryan S. Baker and Jaclyn Ocumpaugh
+ 
+Teaching
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
@@ -53,12 +41,12 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student Liaison in the Faculty Search at the Graduate School of Education in the University of Pennsylvania
+* Co-chair of the communications committee of the International Society of Quantitative Ethnography
+* Recurrent reviewer for the [Computers & Education: Artificial Intelligence Journal](https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence), and the Journals and Conferences of the [Educational Data Mining Society](https://educationaldatamining.org/), [Learning Analytics and Knowledge](https://www.solaresearch.org/), [Artificial Intelligence in Education](https://iaied.org/), [Learning Sciences](https://www.isls.org/), [Quantitative Ethnography](https://www.qesoc.org/), and [Serious Games](https://seriousgamessociety.org/) societies.
+
+Awards and Nominations
+======
+* 
