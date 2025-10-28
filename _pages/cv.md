@@ -12,14 +12,18 @@ redirect_from:
 Education
 ======
 * Ph.D in Learning Sciences and Technologies, University of Pennsylvania, 2026 (expected)
-* M.S. in Electronic and Computers Engineering, Universidad de los Andes, 2020
+* M.S. in Electronic and Computer Engineering, Universidad de los Andes, 2020
 * B.S. in Electrical and Electronic Engineering, Universidad de los Andes, 2019
 
 Research Experience
 ======
 * September 2022 - June 2026: Research Assistant, [Penn Center for Learning Analytics](https://learninganalytics.upenn.edu/), University of Pennsylvania
-  * Duties include: Creating Machine Learning models and conducting statistical and qualitative analysis of students' interactions with educational platforms, motivation, emotions, and learning.
+  * Duties include: Creating Machine Learning models and conducting statistical and qualitative analysis of students' interactions with educational platforms,       motivation, emotions, and learning.
   * Supervisor: Ryan S. Baker and Jaclyn Ocumpaugh
+ 
+* June 2019 - May 2021: Research Assistant, Center for Research and Formation in Artificial Intelligence, Universidad de los Andes
+  * Duties include: Programming dynamic systems and algorithms for machine learning, reinforcement learning and control systems to simulate and model smart cities, and financial dynamics of low-income communities.
+  * Supervisor: Luis Felipe Giraldo
  
 Teaching
 ======
@@ -32,19 +36,22 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Service and leadership
+======
+* Recurrent reviewer for the [Computers & Education: Artificial Intelligence Journal](https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence), and the Journals and Conferences of the [Educational Data Mining Society](https://educationaldatamining.org/), [Learning Analytics and Knowledge](https://www.solaresearch.org/), [Artificial Intelligence in Education](https://iaied.org/), [Learning Sciences](https://www.isls.org/), [Quantitative Ethnography](https://www.qesoc.org/), and [Serious Games](https://seriousgamessociety.org/) societies.
+* Co-chair of the communications committee of the International Society of Quantitative Ethnography in 2025.
+* Student Liaison in the Artificial Intelligence in Education Faculty Search at the Graduate School of Education in the University of Pennsylvania in 2025.
+* Volunteer in the Fenicia Scholar Project in Bogotá, Colombia, teaching Spanish, English, Math, and Sciences in 2019
+
+Awards and Nominations
+======
+* 
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Student Liaison in the Faculty Search at the Graduate School of Education in the University of Pennsylvania
-* Co-chair of the communications committee of the International Society of Quantitative Ethnography
-* Recurrent reviewer for the [Computers & Education: Artificial Intelligence Journal](https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence), and the Journals and Conferences of the [Educational Data Mining Society](https://educationaldatamining.org/), [Learning Analytics and Knowledge](https://www.solaresearch.org/), [Artificial Intelligence in Education](https://iaied.org/), [Learning Sciences](https://www.isls.org/), [Quantitative Ethnography](https://www.qesoc.org/), and [Serious Games](https://seriousgamessociety.org/) societies.
 
-Awards and Nominations
-======
-* 
