@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-edm-crystal
 excerpt: 'In this study, we use both recurring self-reports (SR) and classroom observation (BROMP) to measure student emotion during a study involving middle school students interacting with a game-based learning environment for microbiology education. Results show that highly predictive features in the SR detectors are different from those selected for BROMP-based detectors. The associations with interest and motivation measures show that while SR detectors captured underlying motivations, the BROMP detectors seemed to capture more in-the-moment information about the student’s experience.'
 date: 2024-07-07
-venue: 'Educational Data Mining'
+venue: 'International Conference on Educational Data Mining'
 paperurl: 'https://educationaldatamining.org/edm2024/proceedings/2024.EDM-long-papers.18/'
 ---
 
