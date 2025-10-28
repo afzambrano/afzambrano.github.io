@@ -55,7 +55,7 @@ Awards and Nominations
 * Second place in the Otto de Greiff Awards with the project “[Solar Irradiance Forecasting Models without On-Site Training Measurements](https://afzambrano.github.io/publication/2020-renewable-energies)”. This award is given to the best research projects conducted by undergraduate students in Colombia.
 * Electronic Engineering Cum Laude 2019.
 * Electrical Engineering Cum Laude 2019.
-* Bachiller por Colombia Ecopetrol Scholarship.
+* Bachiller por Colombia Ecopetrol Scholarship, 2014.
 
 Talks
 ======
