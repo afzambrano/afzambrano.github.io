@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Ethnography and Epistemic Network Analysis -- Spring 2024"
+title: "Automated Coding -- Quantitative Ethnography and Epistemic Network Analysis"
 collection: talks
 type: "Guest Lecture"
 permalink: /talks/2024-automated-coding
