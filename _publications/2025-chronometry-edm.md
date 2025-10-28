@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-chronometry-edm
 excerpt: 'This study builds on two prior investigations into the exponential decay of epistemic emotions, expanding the analysis of affective chronometry by incorporating two detection methods based on student self-reports and trained observer labels in a game-based learning environment. Our findings indicate that boredom exhibits the slowest decay across both detection methods, while confusion is the least persistent. Furthermore, we found that higher situational interest and self-efficacy are associated with greater persistence in engaged concentration, as identified by both detection methods.'
 date: 2025-07-25
-venue: 'Educational Data Mining'
+venue: 'International Conference on Educational Data Mining'
 paperurl: 'https://educationaldatamining.org/EDM2025/proceedings/2025.EDM.long-papers.178/index.html'
 ---
 
