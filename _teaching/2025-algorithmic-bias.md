@@ -3,7 +3,7 @@ title: "Big Data, Education, and Society -- Spring 2025"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-algorithmic-bias
-venue: "Universidad de los Andes, Department of Electric and Electronic Engineering"
+venue: "University of Pennsylvania, Graduate School of Education"
 date: 2025-04-03
 location: "Philadelphia, Pennsylvania"
 ---
