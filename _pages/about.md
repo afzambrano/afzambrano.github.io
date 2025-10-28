@@ -8,7 +8,7 @@ redirect_from:
 show_title: false
 ---
 
-I am a doctoral candidate in the Learning Sciences and Technologies Program at the University of Pennsylvania’s Graduate School of Education, a senior researcher at the Penn Center for Learning Analytics, and a Colombian Fulbright Scholar. Under the supervision of Professors Ryan Baker and Jaclyn Ocumpaugh, my work at PCLA explores how artificial intelligence and machine learning can transform learning experiences in digital environments. In particular, we develop and apply learning analytics and data mining methods to analyze how students interact with educational software, aiming to better understand how these interactions influence learning processes and outcomes.
+I am a doctoral candidate in the Learning Sciences and Technologies Program at the University of Pennsylvania’s Graduate School of Education, a senior researcher at the Penn Center for Learning Analytics (PCLA), and a Colombian Fulbright Scholar. Under the supervision of Professors Ryan Baker and Jaclyn Ocumpaugh, my work at the PCLA explores how artificial intelligence and machine learning can transform learning experiences in digital environments. In particular, we develop and apply learning analytics and data mining methods to analyze how students interact with educational software, aiming to better understand how these interactions influence learning processes and outcomes.
 
 Research Interests
 ======
@@ -39,7 +39,7 @@ I investigate how students’ emotions emerge while they interact with various d
 
 Game-Based Learning
 ---
-As a gamer, I truly believe that commercial and educational games (e.g., [What If Hypotetical Implementations in Minecraft](https://whimcproject.web.illinois.edu/) and [Crystal Island](https://sites.google.com/ncsu.edu/intellimedia-crystalisland/)) can serve as meaningful learning environments that foster a wide range of cognitive and motivational outcomes. I study how students interact with educational games, identify the motivational, cognitive, and affective pathways underlying these behaviors, and explore how we can design games that better support diverse learners.
+As a gamer, I truly believe that commercial and educational games (e.g., [What If Hypotetical Implementations in Minecraft](https://whimcproject.web.illinois.edu/) and [Crystal Island](https://sites.google.com/ncsu.edu/intellimedia-crystalisland/)) can serve as meaningful learning environments that foster a wide range of cognitive and motivational outcomes. Employing logs analysis and [data driven classroom interviews](https://drive.google.com/file/d/1Zg5RIADbkQ_phBFiqjduNjx6R70q5fgL/view), I study how students interact with educational games, identify the motivational, cognitive, and affective pathways underlying these behaviors, and explore how we can design games that better support diverse learners.
 
 **Selected Publications**<br>
 - <span style="font-size: 0.9em;">
