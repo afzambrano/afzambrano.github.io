@@ -7,4 +7,4 @@ venue: "Universidad de los Andes, Department of Electric and Electronic Engineer
 date: 2021-01-01
 location: "Bogotá, Colombia"
 ---
-Lectured Introduction to Electrical and Electronic Engineering, an undergraduate course averaging 40 students per semester, with a team of 5 teaching assistants, covering topics such as electronic prototyping, 3d modeling, Arduino, and design project.
+Undergraduate course averaging 40 students per semester, with a team of 5 teaching assistants, covering topics such as electronic prototyping, 3d modeling, Arduino, and design project.
