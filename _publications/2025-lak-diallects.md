@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-lak-dialects
 excerpt: 'This case study uses systematically manipulated student essays, previously evaluated by human raters, to examine how ChatGPT responds to and addresses specific dialect differences. Results point to important concerns about the potential biases and limitations of both LLMs and humans when evaluating and providing feedback to students who use minoritized dialects.'
 date: 2025-03-03
-venue: 'Learning Analytics and Knowledge'
+venue: 'International Conference on Learning Analytics and Knowledge'
 paperurl: 'https://dl.acm.org/doi/full/10.1145/3706468.3706496'
 ---
 
