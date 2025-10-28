@@ -3,7 +3,7 @@ title: "Quantitative Ethnography and Epistemic Network Analysis -- Spring 2024"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-automated-coding
-venue: "Universidad de los Andes, Department of Electric and Electronic Engineering"
+venue: "University of Pennsylvania, Graduate School of Education"
 date: 2024-04-03
 location: "Philadelphia, Pennsylvania"
 ---
