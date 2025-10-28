@@ -46,7 +46,15 @@ Service and leadership
 
 Awards and Nominations
 ======
-* 
+* Best Student Paper ICQE 2025: Liu, X., Zhou, Y., Ocumpaugh, J., Barany, A., Zambrano, A.F., Wei, Z., Baker, R.S., Giordano, C. (2025) Not All Who Wander Are Lost: Trailblazing Trajectories in a Minecraft-Based Learning Environment. Proceedings of the International Conference on Quantitative Ethnography.
+* Best Paper Nomination ICQE 2024: [Pankiewicz, M., Zambrano, A.F., Barany, A., Baker, R.S. (2024) How we Code Code: Leveraging GPT and Ordered Networks for Understanding Introductory Programming Education. Proceedings of the International Conference on Quantitative Ethnography](https://afzambrano.github.io/publication/2024-icqe-coding-code)
+* Best Paper Nomination LAK 2024: [Zambrano, A.F., Zhang, J., Baker, R.S. (2024) Investigating Algorithmic Bias on Bayesian Knowledge Tracing and Carelessness Detectors. Proceedings of the 14th International Conference on Learning Analytics and Knowledge (LAK24).](https://afzambrano.github.io/publication/2024-lak-bkt-bias)
+* Best Student Paper Nomination ICQE 2023: [Zambrano, A.F., Liu, X., Barany, A., Baker, R.S., Kim, J., Nasiar, N. (2023) From nCoder to ChatGPT: From Automated Coding to Refining Human Coding. Proceedings of the International Conference on Quantitative Ethnography.](https://afzambrano.github.io/publication/2023-icqe-gpt)
+* Fulbright Minciencias Award 2021 for pursuing doctoral studies in the U.S.
+* Second place in the Otto de Greiff Awards with the project “Solar Irradiance Forecasting Models without On-Site Training Measurements”. This award is given to the best research projects conducted by undergraduate students in Colombia.
+* Electronic Engineering Cum Laude 2019.
+* Electrical Engineering Cum Laude 2019.
+* Bachiller por Colombia Ecopetrol Scholarship.
 
 Talks
 ======
