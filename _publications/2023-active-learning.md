@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2023-active-learning
 excerpt: 'This paper explores the potential benefit of Active Learning methods to identify the specific samples that should be labeled to improve affect detector performance. Our experimental results show that AL methods slightly improve the performance indicators of binary detectors for concentration, confusion, and frustration compared to control sampling methods. However, there is no benefit for boredom detection.'
 date: 2023-09-10
-venue: 'Affective Computing and Intelligent Interaction'
+venue: 'International Conference on Affective Computing and Intelligent Interaction'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10388151'
 ---
 
