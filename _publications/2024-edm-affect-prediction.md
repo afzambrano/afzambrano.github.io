@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-edm-affect-prediction
 excerpt: 'In this paper, we aim to predict students’ affective states in advance. Within our approach, we attempt to determine the maximum prediction window where detector performance remains sufficiently high, documenting the decay in performance when this prediction horizon is increased. Our results indicate that it is possible to predict confusion, frustration, and boredom in advance with performance over chance for prediction horizons of 120, 40, and 50 seconds, respectively.'
 date: 2024-07-07
-venue: 'Educational Data Mining'
+venue: 'International Conference on Educational Data Mining'
 paperurl: 'https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.58/'
 ---
 
