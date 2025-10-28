@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-aied-clustering-runcode
 excerpt: 'Using a data-driven approach, we analyze students’ usage patterns while considering their prior knowledge and HEXAD profiles to understand how different patterns relate to performance gains. Clustering analysis revealed six student usage patterns with varied practice and spacing behaviors, highlighting the complex interplay between repeated and distributed practice strategies by demonstrating that usage patterns influence performance gains differently depending on students’ prior knowledge but not HEXAD user profiles.'
 date: 2025-07-20
-venue: 'Artificial Intelligence in Education'
+venue: 'International Conference on Artificial Intelligence in Education'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-98465-5_13'
 ---
 
