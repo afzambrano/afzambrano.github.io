@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Systems -- Fall 2021 - Spring 2021"
+title: "Dynamic Systems -- Fall 2021 - Spring 2022"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-dynamic-systems
