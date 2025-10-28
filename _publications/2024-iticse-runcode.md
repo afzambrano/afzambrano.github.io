@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-iticse-runcode
 excerpt: 'In this study, we utilize Ordered Network Analysis (ONA) to examine data from a system for automated assessment of programming assignments and compare platform activity between novice students achieving high and low scores on the final test of an introductory CS course. We identify and visualize differences in the activity patterns between the groups. High performing novice students tend to request feedback more often, while low performing students more often leave the assignment unsolved after experiencing an unsuccessful attempt.'
 date: 2024-07-03
-venue: 'Innovation & Technology in Computer Science Education'
+venue: 'Annual Conference on Innovation & Technology in Computer Science Education'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3649217.3653613'
 ---
 
