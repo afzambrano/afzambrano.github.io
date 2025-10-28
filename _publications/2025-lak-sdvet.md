@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-lak-sdvet
 excerpt: 'This paper expands upon the existing theoretical frameworks, increasing the types of questions we ask about affect dynamics. We do so within the context of Crystal Island, a virtual world that allows middle school students to investigate microbiology questions.'
 date: 2025-03-03
-venue: 'Learning Analytics and Knowledge'
+venue: 'International Conference on Learning Analytics and Knowledge'
 paperurl: 'https://dl.acm.org/doi/full/10.1145/3706468.3706495'
 ---
 
