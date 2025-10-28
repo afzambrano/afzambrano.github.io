@@ -2,7 +2,7 @@
 title: "Fundamentals of Circuits Theory -- Spring 2022"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2021-dynamic-systems
+permalink: /teaching/2022-circuits
 venue: "Universidad de los Andes, Department of Electric and Electronic Engineering"
 date: 2022-01-01
 location: "Bogotá, Colombia"
