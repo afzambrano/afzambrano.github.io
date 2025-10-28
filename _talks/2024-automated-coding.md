@@ -1,8 +1,8 @@
 ---
 title: "Quantitative Ethnography and Epistemic Network Analysis -- Spring 2024"
-collection: teaching
-type: "Graduate course"
-permalink: /teaching/2024-automated-coding
+collection: talks
+type: "Guest Lecture"
+permalink: /talks/2024-automated-coding
 venue: "University of Pennsylvania, Graduate School of Education"
 date: 2024-04-03
 location: "Philadelphia, Pennsylvania"
