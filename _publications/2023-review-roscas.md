@@ -3,14 +3,15 @@ title: "Rotating savings and credit associations: A scoping review"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-review-roscas
-excerpt: 'We propose a methodology that takes information from exogenous variables that are correlated to on-site solar irradiance and constructs a multidimensional space equipped with a metric. Each site is a point in this space, and the learned metric is used to select those sites that can provide measurements to train an accurate forecasting model on an unobserved site. We show through experiments with real data that using the learned metric provides better predictions than using the measurements collected from the whole set of available sites.'
+excerpt: 'In this study, we conducted a scoping review using the PRISMA-ScR protocol to determine the most important recent findings about ROSCAs. First, we analyzed the location of the community being studied, methodological approaches, and most common keywords of the 96 articles included in the review. Second, we discussed the most significant conclusions of each article on topics such as the origin, participants, benefits, risks, operation, penalties, and structure of ROSCAs.'
 date: 2023-12-01
 venue: 'World Development Sustainability'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2772655X23000393'
 ---
 
 A Rotating Savings and Credit Association (ROSCA) is an informal cooperation strategy that has emerged in several parts of the world as a tool to increase the resilience and social development of individuals in underprivileged communities. This strategy has been widely studied for decades to recognize ROSCAs’ benefits, risks, and operation rules in several regions and countries. In this study, we conducted a scoping review using the PRISMA-ScR protocol to determine the most important recent findings about ROSCAs. First, we analyzed the location of the community being studied, methodological approaches, and most common keywords of the 96 articles included in the review. Second, we discussed the most significant conclusions of each article on topics such as the origin, participants, benefits, risks, operation, penalties, and structure of ROSCAs. Based on this review, we discuss how ROSCAs have provided benefits to their members that are not exclusively financial, how these schemes have evolved from traditional ones to strategies with improved structure, rules, and technological tools, and some key research opportunities to be addressed.
-[Download Paper](https://www.learning-analytics.info/index.php/JLA/article/view/8575)
+
+[Download Paper](https://www.sciencedirect.com/science/article/pii/S2772655X23000393)
 
 <b>Recommended citation:</b><br>
 <i>Zambrano, A. F., Giraldo, L. F., Perdomo, M. T., Hernández, I. D., & Godoy, J. M.</i> (2023). 
