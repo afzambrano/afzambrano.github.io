@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-lak-bkt-bias
 excerpt: 'Using data from a learning platform used across the United States at scale, we explore algorithmic bias following three different approaches: 1) analyzing the performance of the models on every demographic group in the sample, 2) comparing performance across intersectional groups of these demographics, and 3) investigating whether the models trained using specific groups can be transferred to demographics that were not observed during the training process. Our experimental results show that the performance of these models is close to equal across all the demographic and intersectional groups.'
 date: 2024-03-18
-venue: 'Learning Analytics and Knowledge'
+venue: 'International Conference on Learning Analytics and Knowledge'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3636555.3636890'
 ---
 
