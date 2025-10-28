@@ -3,7 +3,7 @@ title: "Rotating savings and credit associations: A scoping review"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-review-roscas
-excerpt: 'In this study, we conducted a scoping review using the PRISMA-ScR protocol to determine the most important recent findings about ROSCAs. First, we analyzed the location of the community being studied, methodological approaches, and most common keywords of the 96 articles included in the review. Second, we discussed the most significant conclusions of each article on topics such as the origin, participants, benefits, risks, operation, penalties, and structure of ROSCAs.'
+excerpt: 'In this scoping review, we discuss how ROSCAs have provided benefits to their members that are not exclusively financial, how these schemes have evolved from traditional ones to strategies with improved structure, rules, and technological tools, and some key research opportunities to be addressed.'
 date: 2023-12-01
 venue: 'World Development Sustainability'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2772655X23000393'
