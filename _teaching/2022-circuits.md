@@ -7,4 +7,4 @@ venue: "Universidad de los Andes, Department of Electric and Electronic Engineer
 date: 2022-01-01
 location: "Bogotá, Colombia"
 ---
-Teaching Fundamentals of Circuits Theory, an undergraduate course averaging 50 students per semester, with a team of 2 teaching assistants, covering the following topics: nodes and network analyses, Kirchhoff's Laws, Thévenin's Theorem, Operational Amplifiers, and Maximum Power Transfer.
+Undergraduate course averaging 50 students per semester, with a team of 2 teaching assistants, covering the following topics: nodes and network analyses, Kirchhoff's Laws, Thévenin's Theorem, Operational Amplifiers, and Maximum Power Transfer.
