@@ -1,10 +1,10 @@
 ---
-title: "Fundamentals of Circuits Theory -- Spring 2022"
+title: "Big Data, Education, and Society -- Spring 2025"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2021-dynamic-systems
+type: "Graduate course"
+permalink: /teaching/2025-algorithmic-bias
 venue: "Universidad de los Andes, Department of Electric and Electronic Engineering"
-date: 2022-01-01
-location: "Bogotá, Colombia"
+date: 2025-04-03
+location: "Philadelphia, Pennsylvania"
 ---
-Teaching Fundamentals of Circuits Theory, an undergraduate course averaging 50 students per semester, with a team of 2 teaching assistants, covering the following topics: nodes and network analyses, Kirchhoff's Laws, Thévenin's Theorem, Operational Amplifiers, and Maximum Power Transfer.
+Guest Lecture on Algorithmic Bias in the Big Data, Education, and Society course, hosted by Professor Ryan Baker. The lecture explores how and why machine learning algorithms and artificial intelligence models can exhibit bias against certain populations, as well as mechanisms for mitigating the potential harms these biases can cause.
