@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-de-identification-journal
 excerpt: 'This study evaluates the effectiveness of three large language models (LLMs)—GPT-4o, Llama 3.3 70B, and Llama 3.1 8B—in redacting personally identifying information (PII) from forum data in massive open online courses (MOOCs). All models achieved an average recall above 0.9, successfully identifying most PII and even detecting instances overlooked by humans; however, their precision was lower—0.579 for GPT-4o, 0.506 for Llama 3.3, and 0.262 for Llama 3.1—indicating a tendency to over-redact non-PII text such as names and locations.'
 date: 2025-04-07
-venue: 'Information and Learning Sciences Journal'
+venue: 'Information and Learning Sciences'
 paperurl: 'https://www.emerald.com/ils/article/126/5-6/401/1246753/De-identifying-student-personally-identifying'
 ---
 
