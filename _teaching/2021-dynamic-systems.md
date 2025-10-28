@@ -7,4 +7,4 @@ venue: "Universidad de los Andes, Department of Electric and Electronic Engineer
 date: 2021-01-01
 location: "Bogotá, Colombia"
 ---
-Taught Dynamic Systems, an undergraduate course averaging 50 students per semester, with a team of 2 teaching assistants, covering the following topics: difference and differential equations, linear state equations, optimization, Markov chains, artificial neural networks, and control systems theory.
+Undergraduate course averaging 50 students per semester, with a team of 2 teaching assistants, covering the following topics: difference and differential equations, linear state equations, optimization, Markov chains, artificial neural networks, and control systems theory.
