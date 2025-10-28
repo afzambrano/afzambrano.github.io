@@ -2,7 +2,7 @@
 title: "Introduction to Electrical and Electronic Engineering -- Fall 2021 - Spring 2022"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2021-dynamic-systems
+permalink: /teaching/2021-intro
 venue: "Universidad de los Andes, Department of Electric and Electronic Engineering"
 date: 2021-01-01
 location: "Bogotá, Colombia"
