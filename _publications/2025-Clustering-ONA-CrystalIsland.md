@@ -16,6 +16,6 @@ This study investigates student learning and interest within the context of a si
 <b>Recommended citation:</b><br>
 <i>Zambrano, A. F., Barany, A., Ocumpaugh, J., Nasiar, N., Vandenberg, J., Goslen, A., ... & Hutt, S.</i> (2025). 
 <i>Unlocking Gameplay Insights with Epistemic (Ordered) Network Analysis: Understanding the Potential of Video Games to Foster Authentic Scientific Practices in STEM Education.</i> 
-<i>Journal of Science Education and Technology.</i> 
+<i>Journal of Science Education and Technology</i> 34, 1164–1177.
 <a href="https://doi.org/10.1007/s10956-025-10213-4">https://doi.org/10.1007/s10956-025-10213-4</a>
 
