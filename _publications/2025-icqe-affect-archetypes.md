@@ -1,9 +1,13 @@
 ---
-title: "Better to Be Confused or Frustrated Than Bored: Analyzing Affect Dynamics Across Player Archetypes"
+title: "
+<b>Recommended citation:</b><br>
+<i> Zambrano, A. F., Ocumpaugh, J., Baker, R. S., & Vandenberg, J.</i> (2025, March). 
+<i>Better to Be Confused or Frustrated Than Bored: Analyzing Affect Dynamics Across Player Archetypes</i> 
+In <i>Proceedings of the 7th International Conference on Quantitative Ethnography</i> (pp. 384–399). 
+<a href="https://doi.org/10.1007/978-3-032-12229-2_25">https://doi.org/10.1007/978-3-032-12229-2_25</a>"
 collection: publications
 category: conferences
 permalink: /publication/22025-icqe-affect-archetype
-excerpt: 'This study uses ONA to investigate these relationships within the context of the affective transitions made by students of four behavioral archetypes—Scanners, Worksheet Users, Conversers, and Roamers—in Crystal Island, a game designed to support inquiry-based learning in microbiology. Results indicate that while both Scanners and Worksheet Users exhibited more positively valenced affect dynamics, only Worksheet Users showed measurable learning gains—likely due to their greater engagement in systematic exploration and reflection, particularly while experiencing and regulating confusion and frustration. In contrast, Conversers and Roamers experienced persistent boredom and prolonged confusion, accompanied by low motivation and poor performance.'
 date: 2025-12-02
 venue: 'International Conference on Quantitative Ethnography'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-032-12229-2_25'
