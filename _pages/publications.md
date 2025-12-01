@@ -36,7 +36,7 @@ Zambrano, A.F., Liu, X., Barany, A., Baker, R.S., Kim, J., & Nasiar, N. (2023).
 In G. Arastoopour Irgens & S. Knight (Eds.), <i>Advances in Quantitative Ethnography (ICQE 2023)</i>. 
 <i>Communications in Computer and Information Science</i>, vol 1895. Springer, Cham. 
 <a href="https://doi.org/10.1007/978-3-031-47014-1_32">https://doi.org/10.1007/978-3-031-47014-1_32</a>
-<b>"[Nominated Best Student Paper]"</b>
+<b>[Nominated Best Student Paper]</b>
 
 Zambrano, A. F., Barany, A., Ocumpaugh, J., Nasiar, N., Hutt, S., Goslen, A., ... & Mott, B. (2023). 
 <i>Cracking the Code of Learning Gains: Using Ordered Network Analysis to Understand the Influence of Prior Knowledge.</i> 
