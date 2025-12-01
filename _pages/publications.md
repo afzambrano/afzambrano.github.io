@@ -18,7 +18,7 @@ Zambrano, A. F., Giraldo, L. F., Quimbayo, J., Medina, B., & Castillo, E. (2021)
 <a href="https://doi.org/10.1371/journal.pone.0256380">https://doi.org/10.1371/journal.pone.0256380</a>
 
 Zambrano, A. F., Díaz-García, G., Ramírez, S., Giraldo, L. F., Gonzalez-Villasanti, H., Perdomo, M. T., ... & Godoy, J. M. (2021). 
-<i>Donation networks in underprivileged communities.
+<i>Donation networks in underprivileged communities.</i>
 <i>IEEE Transactions on Computational Social Systems, 8</i>(1), 76–85. 
 <a href="https://doi.org/10.1109/TCSS.2020.3037148">https://doi.org/10.1109/TCSS.2020.3037148</a></n>
 
