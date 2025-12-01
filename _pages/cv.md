@@ -33,9 +33,10 @@ Teaching
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<i>Zambrano, A. F., & Giraldo, L. F.</i> (2020). 
+<i>Solar irradiance forecasting models without on-site training measurements.</i> 
+<i>Renewable Energy, 152</i>, 557–566. 
+<a href="https://doi.org/10.1016/j.renene.2020.01.092">https://doi.org/10.1016/j.renene.2020.01.092</a>
 
 Service and leadership
 ======
