@@ -1,10 +1,5 @@
 ---
-title: >
-  <b>Recommended citation:</b><br>
-  <i>Zambrano, A. F., Ocumpaugh, J., Baker, R. S., &amp; Vandenberg, J.</i> (2025, March).
-  <i>Better to Be Confused or Frustrated Than Bored: Analyzing Affect Dynamics Across Player Archetypes</i>
-  In <i>Proceedings of the 7th International Conference on Quantitative Ethnography</i> (pp. 384–399).
-  <a href="https://doi.org/10.1007/978-3-032-12229-2_25">https://doi.org/10.1007/978-3-032-12229-2_25</a>
+title:<i>Zambrano, A. F., Ocumpaugh, J., Baker, R. S., &amp; Vandenberg, J.</i> (2025, March). <i>Better to Be Confused or Frustrated Than Bored: Analyzing Affect Dynamics Across Player Archetypes</i> In <i>Proceedings of the 7th International Conference on Quantitative Ethnography</i> (pp. 384–399).
 collection: publications
 category: conferences
 permalink: /publication/22025-icqe-affect-archetype
