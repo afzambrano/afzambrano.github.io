@@ -81,7 +81,7 @@ Zambrano, A. F., & Giraldo, L. F.(2020).
 ## Conference Papers
 
 Zambrano, A. F., Ocumpaugh, J., Baker, R. S., & Vandenberg, J. (2025). 
-<i> Better to Be Confused or Frustrated Than Bored: Analyzing Affect Dynamics Across Player Archetypes. In Advances in Quantitative Ethnography. ICQE25 </i>, 384–399.
+<i> Better to Be Confused or Frustrated Than Bored: Analyzing Affect Dynamics Across Player Archetypes. In Advances in Quantitative Ethnography. ICQE25</i>, 384–399.
 <a href="https://doi.org/10.1007/978-3-032-12229-2_25">https://doi.org/10.1007/978-3-032-12229-2_25</a>
 
 Liu, X., Zhou, Y., Ocumpaugh, J., Barany, A., Zambrano, A. F., Wei, Z., ... & Giordano, C. (2025). 
