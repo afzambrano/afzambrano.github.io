@@ -5,8 +5,6 @@ collection: publications
 category: conferences
 permalink: /publication/22025-icqe-affect-archetype
 date: 2025-12-02
-venue: 'International Conference on Quantitative Ethnography'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-3-032-12229-2_25'
 ---
 
 <!--more-->
