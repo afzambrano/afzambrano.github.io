@@ -31,6 +31,19 @@ Zambrano, A. F., & Giraldo, L. F.(2020).
 
 ## Conference Papers
 
+Zambrano, A.F., Liu, X., Barany, A., Baker, R.S., Kim, J., & Nasiar, N. (2023). 
+<i>From nCoder to ChatGPT: From Automated Coding to Refining Human Coding.</i> 
+In G. Arastoopour Irgens & S. Knight (Eds.), <i>Advances in Quantitative Ethnography (ICQE 2023)</i>. 
+<i>Communications in Computer and Information Science</i>, vol 1895. Springer, Cham. 
+<a href="https://doi.org/10.1007/978-3-031-47014-1_32">https://doi.org/10.1007/978-3-031-47014-1_32</a>
+<b>"[Nominated Best Student Paper]"</b>
+
+Zambrano, A. F., Barany, A., Ocumpaugh, J., Nasiar, N., Hutt, S., Goslen, A., ... & Mott, B. (2023). 
+<i>Cracking the Code of Learning Gains: Using Ordered Network Analysis to Understand the Influence of Prior Knowledge.</i> 
+In G. Arastoopour Irgens & S. Knight (Eds.), <i>Advances in Quantitative Ethnography (ICQE 2023)</i>. 
+<i>Communications in Computer and Information Science</i>, vol 1895. Springer, Cham. 
+<a href="https://doi.org/10.1007/978-3-031-47014-1_2">https://doi.org/10.1007/978-3-031-47014-1_2</a>
+
 Švábenský, V., Baker, R. S., Zambrano, A. F., Zou, Y., & Slater, S. (2023). 
 <i>Towards Generalizable Detection of Urgency of Discussion Forum Posts.</i> 
 <i>Proceedings of the 16th International Conference on Educational Data Mining</i>, 302–309. 
