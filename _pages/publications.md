@@ -17,7 +17,7 @@ Zambrano, A. F., Giraldo, L. F., Quimbayo, J., Medina, B., & Castillo, E. (2021)
 <i>PLOS ONE, 16</i>(8). 
 <a href="https://doi.org/10.1371/journal.pone.0256380">https://doi.org/10.1371/journal.pone.0256380</a>
 
-Zambrano, A. F., Díaz-García, G., Ramírez, S., Giraldo, L. F., Gonzalez-Villasanti, H., Perdomo, M. T., ... & Godoy, J. M.</i> (2021). 
+Zambrano, A. F., Díaz-García, G., Ramírez, S., Giraldo, L. F., Gonzalez-Villasanti, H., Perdomo, M. T., ... & Godoy, J. M. (2021). 
 <i>Donation networks in underprivileged communities.
 <i>IEEE Transactions on Computational Social Systems, 8</i>(1), 76–85. 
 <a href="https://doi.org/10.1109/TCSS.2020.3037148">https://doi.org/10.1109/TCSS.2020.3037148</a></n>
@@ -36,14 +36,14 @@ Zambrano, A. F., & Giraldo, L. F.(2020).
 <i>Proceedings of the 16th International Conference on Educational Data Mining</i>, 302–309. 
 <a href="https://doi.org/10.5281/zenodo.8115790">https://doi.org/10.5281/zenodo.8115790</a>
 
-<i>Nasiar, N., Zambrano, A. F., Ocumpaugh, J., Hutt, S., Goslen, A., Rowe, J., ... & Mott, B.</i> (2023). 
+Nasiar, N., Zambrano, A. F., Ocumpaugh, J., Hutt, S., Goslen, A., Rowe, J., ... & Mott, B. (2023). 
 <i>It’s Good to Explore: Investigating Silver Pathways and the Role of Frustration During Game-Based Learning.</i> 
 In N. Wang, G. Rebolledo-Mendez, V. Dimitrova, N. Matsuda, & O. C. Santos (Eds.), 
 <i>Artificial Intelligence in Education: Posters and Late Breaking Results, Workshops and Tutorials, Industry and Innovation Tracks, Practitioners, Doctoral Consortium and Blue Sky. AIED 2023</i>. 
 <i>Communications in Computer and Information Science</i>, vol 1831. Springer, Cham. 
 <a href="https://doi.org/10.1007/978-3-031-36336-8_77">https://doi.org/10.1007/978-3-031-36336-8_77</a>
 
-<i>Zambrano, A. F., Baker, R. S., & Lan, A. S.</i> (2023, September). 
+Zambrano, A. F., Baker, R. S., & Lan, A. S. (2023, September). 
 <i>Active Learning for a Classroom Observer who Can’t Time Travel.</i> 
 In <i>2023 11th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)</i> (pp. 1–8). IEEE. 
 <a href="https://doi.org/10.1109/ACIIW59127.2023.10388151">https://doi.org/10.1109/ACIIW59127.2023.10388151</a>
