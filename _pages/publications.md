@@ -51,9 +51,25 @@ Zambrano, A. F., & Giraldo, L. F.(2020).
 
 ## Conference Papers
 
-Zambrano, A. F., Ocumpaugh, J., Baker, R. S., & Vandenberg, J. (2025, March). 
-<i> Better to Be Confused or Frustrated Than Bored: Analyzing Affect Dynamics Across Player Archetypes. In Proceedings of the 7th International Conference on Quantitative Ethnography 384–399 </i>.
+Zambrano, A. F., Ocumpaugh, J., Baker, R. S., & Vandenberg, J. (2025). 
+<i> Better to Be Confused or Frustrated Than Bored: Analyzing Affect Dynamics Across Player Archetypes. In Advances in Quantitative Ethnography. ICQE25 </i>, 384–399.
 <a href="https://doi.org/10.1007/978-3-032-12229-2_25">https://doi.org/10.1007/978-3-032-12229-2_25</a>
+
+Liu, X., Zhou, Y., Ocumpaugh, J., Barany, A., Zambrano, A. F., Wei, Z., ... & Giordano, C. (2025). 
+<i> Not All Who Wander Are Lost: Trailblazing Trajectories in a Minecraft-Based Learning Environment. In Advances in Quantitative Ethnography. ICQE 2025, </i> 336-352.
+<a href="https://doi.org/10.1007/978-3-032-12229-2_22">https://doi.org/10.1007/978-3-032-12229-2_22</a>
+<b>[Best Student Paper]</b>
+
+Liu, X., Wei, Z., Barany, A., Ocumpaugh, J., Baker, R. S., Zambrano, A. F., ... & Giordano C. (2025). 
+<i> Exploring Differences Between Hybrid GPT-Human and Human-Created Qualitative Codebooks in an Educational Game. In Advances in Quantitative Ethnography. ICQE25 </i>,
+193-208. <a href="https://doi.org/10.1007/978-3-032-12229-2_13">https://doi.org/10.1007/978-3-032-12229-2_13</a>
+
+Wei, Z., Barany, A., Ocumpaugh, J., Liu, X., Zambrano, A. F., Baker, R. S., & Giordano, C. (2025). 
+<i>Let Me Explain: Linking Situational Interest to Student Response in Interviews. In Advances in Quantitative Ethnography. ICQE 2025 </i>, 353-368.
+<a href="https://doi.org/10.1007/978-3-032-12229-2_23">https://doi.org/10.1007/978-3-032-12229-2_23</a>
+
+Karimov, A., Saarela, M., Liu, X., Wei, Z., Zambrano A. F., Barany, A., ... & Kärkkäinen, T. (2025). 
+<i> ChatGPT-Assisted Codebook Design for Learning Analytics Datasets in Multiple Languages: A Case Study. In Advances in Quantitative Ethnography. ICQE 2025</i>, 177-192. <a href="https://doi.org/10.1007/978-3-032-12229-2_12">https://doi.org/10.1007/978-3-032-12229-2_12</a>
 
 Zambrano, A. F., Ocumpaugh, J., Baker, R. S., Vanacore, K., Esiason, J., & Vandenberg, J. (2025). 
 <i>The Half-Life of Epistemic Emotions: How Motivation Influences Affective Chronometry.</i> 
