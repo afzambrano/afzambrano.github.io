@@ -5,7 +5,24 @@ permalink: /publications/
 author_profile: true
 ---
 
+You can also find all my publications in my [Google Scholar profile](https://scholar.google.com/citations?user=MqF4hosAAAAJ&hl=es&oi=ao)
+
 ## Journal Papers
+
+Zambrano, A. F., Barany, A., Ocumpaugh, J., Nasiar, N., Vandenberg, J., Goslen, A., ... & Hutt, S. (2025). 
+<i>Unlocking Gameplay Insights with Epistemic (Ordered) Network Analysis: Understanding the Potential of Video Games to Foster Authentic Scientific Practices in STEM Education.</i> 
+<i>Journal of Science Education and Technology</i> 34, 1164–1177.
+<a href="https://doi.org/10.1007/s10956-025-10213-4">https://doi.org/10.1007/s10956-025-10213-4</a>
+
+Liu, X., Zambrano, A. F., Baker, R. S., Barany, A., Ocumpaugh, J., Zhang, J., Pankiewicz, M., Nasiar, N., & Wei, Z. (2025). 
+<i>Qualitative Coding with GPT-4: Where it Works Better.</i> 
+<i>Journal of Learning Analytics, 12</i>(1), 169–185. 
+<a href="https://doi.org/10.18608/jla.2025.8575">https://doi.org/10.18608/jla.2025.8575</a>
+
+Zambrano, A. F., Singhal, S., Pankiewicz, M., Baker, R. S., Porter, C., & Liu, X. (2025). 
+<i>De-identifying student personally identifying information in discussion forum posts with large language models.</i> 
+<i>Information and Learning Sciences, 126</i>(5–6), 401–424. 
+<a href="https://doi.org/10.1108/ILS-11-2024-0156">https://doi.org/10.1108/ILS-11-2024-0156</a>
 
 Zambrano, A. F., Giraldo, L. F., Perdomo, M. T., Hernández, I. D., & Godoy, J. M. (2023). 
 <i>Rotating savings and credit associations: A scoping review.</i> 
@@ -32,9 +49,38 @@ Zambrano, A. F., & Giraldo, L. F.(2020).
 <i>Renewable Energy, 152</i>, 557–566. 
 <a href="https://doi.org/10.1016/j.renene.2020.01.092">https://doi.org/10.1016/j.renene.2020.01.092</a>
 
-<br/>
-
 ## Conference Papers
+
+Zambrano, A. F., Ocumpaugh, J., Baker, R. S., & Vandenberg, J. (2025, March). 
+<i> Better to Be Confused or Frustrated Than Bored: Analyzing Affect Dynamics Across Player Archetypes. In Proceedings of the 7th International Conference on Quantitative Ethnography 384–399 </i>.
+<a href="https://doi.org/10.1007/978-3-032-12229-2_25">https://doi.org/10.1007/978-3-032-12229-2_25</a>
+
+Zambrano, A. F., Ocumpaugh, J., Baker, R. S., Vanacore, K., Esiason, J., & Vandenberg, J. (2025). 
+<i>The Half-Life of Epistemic Emotions: How Motivation Influences Affective Chronometry.</i> 
+<i>Proceedings of the 18th International Conference on Educational Data Mining</i>, 317–327. 
+<a href="https://doi.org/10.5281/zenodo.15870173">https://doi.org/10.5281/zenodo.15870173</a>
+
+Wei, Z., Nasiar, N., Zambrano, A. F., Liu, X., Ocumpaugh, J., Barany, A., ... & Giordano, C. (2025). 
+<i>Exploring students’ interest-driven patterns of scientific observation in Minecraft.</i> 
+<i>The International Society of the Learning Sciences Proceedings.</i>
+<a href="https://doi.org/10.22318/icls2025.978554">https://doi.org/10.22318/icls2025.978554</a>
+
+Ocumpaugh, J., Nasiar, N., Zambrano, A. F., Goslen, A., Vandenberg, J., Esiason, J., ... & Hutt, S. (2025, March). 
+<i>Refocusing the lens through which we view affect dynamics: The Skills, Difficulty, Value, Efficacy and Time Model.</i> 
+In <i>Proceedings of the 15th International Learning Analytics and Knowledge Conference</i> (pp. 192–203). 
+<a href="https://doi.org/10.1145/3706468.3706495">https://doi.org/10.1145/3706468.3706495</a>
+
+Ocumpaugh, J., Liu, X., & Zambrano, A. F. (2025, March). 
+<i>Language Models and Dialect Differences.</i> 
+In <i>Proceedings of the 15th International Learning Analytics and Knowledge Conference</i> (pp. 204–215). 
+<a href="https://doi.org/10.1145/3706468.3706496">https://doi.org/10.1145/3706468.3706496</a>
+
+Rodrigues, L., Zambrano, A. F., Pankiewicz, M., Barany, A., & Baker, R. S. (2025). 
+<i>Usage Patterns and Performance Gains in Gamified Online Judges: A Data-Driven Analysis Informed by Cognitive Psychology in CS1.</i> 
+In A. I. Cristea, E. Walker, Y. Lu, O. C. Santos, & S. Isotani (Eds.), 
+<i>Artificial Intelligence in Education (AIED 2025)</i>. 
+<i>Lecture Notes in Computer Science</i>, vol 15882. Springer, Cham. 
+<a href="https://doi.org/10.1007/978-3-031-98465-5_13">https://doi.org/10.1007/978-3-031-98465-5_13</a>
 
 Zambrano, A. F., Baker, R. S., Mehta, S., & Barany, A. (2024). 
 <i>Epistemic Association Rule Networks: Incorporating Association Rule Mining into the Quantitative Ethnography Toolbox.</i> 
@@ -109,6 +155,7 @@ In G. Arastoopour Irgens & S. Knight (Eds.), <i>Advances in Quantitative Ethnogr
 <i>Towards Generalizable Detection of Urgency of Discussion Forum Posts.</i> 
 <i>Proceedings of the 16th International Conference on Educational Data Mining</i>, 302–309. 
 <a href="https://doi.org/10.5281/zenodo.8115790">https://doi.org/10.5281/zenodo.8115790</a>
+<b>[Best Short Paper]</b>
 
 Nasiar, N., Zambrano, A. F., Ocumpaugh, J., Hutt, S., Goslen, A., Rowe, J., ... & Mott, B. (2023). 
 <i>It’s Good to Explore: Investigating Silver Pathways and the Role of Frustration During Game-Based Learning.</i> 
