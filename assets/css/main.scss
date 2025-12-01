@@ -41,3 +41,21 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Change font size of publication titles */
+.publication__title a {
+    font-size: 1.1em;      /* adjust size */
+    color: #0066cc;        /* change title color */
+    font-weight: 600;      /* optional */
+}
+
+/* Change the citation text under the title */
+.publication__details {
+    font-size: 0.9em;
+    color: #555;           /* muted gray */
+}
+
+/* Change hover color */
+.publication__title a:hover {
+    color: #cc4400;
+}
